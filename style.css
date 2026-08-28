@@ -1,0 +1,32 @@
+body {
+	font-size: 10px;
+	font-family: Verdana;
+	padding: 0px;
+	color: #005a7e;
+	margin: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 0px;
+	border: 0px;
+	background: transparent url(bg.jpg) no-repeat;
+	background-attachment: fixed;
+}
+.header {
+	font-size: 100%;
+	font-weight: 900;
+}
+.content {
+	font-size: 80%;
+	padding: 0px;
+}
+
+li {
+	font-size: 11px;
+	font-family: Verdana;
+	color: #005a7e;
+}
+
+.by {	
+	font-size: 11px;
+	font-family: Verdana;
+}
